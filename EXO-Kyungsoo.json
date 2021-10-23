@@ -1,0 +1,79 @@
+{
+  "Ads": [
+      {
+       "select_main_ads": "",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "native_for_admob":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+      }
+   ],
+
+  "More":
+  [
+    {
+      "id":1,
+      "title":"JewelQueen",
+      "image":"https://play-lh.googleusercontent.com/27VDCaZ00ye9bugoz127OuttQFy-5_10SGDI3LBeqLr1bbZJQSqZrZV7qhqDLdhx8A=w144-h144-n-rw",
+      "link":"https://play.google.com/store/apps/developer?id=JewelQueen"
+    }
+  ],
+  "Item":
+  [
+    {
+      "id":1,
+      "name":"D.O. EXO",
+      "image_url":"file:///android_asset/01.jpg",
+      "video_url":"video01",
+      "voice_url":"musik01.mp3"
+    },
+    {
+      "id":2,
+      "name":"D.O. EXO",
+      "image_url":"file:///android_asset/02.jpg",
+      "video_url":"video01",
+      "voice_url":"musik01.mp3"
+    },
+    {
+      "id":3,
+      "name":"D.O. EXO",
+      "image_url":"file:///android_asset/03.jpg",
+      "video_url":"video01",
+      "voice_url":"musik01.mp3"
+    },
+    {
+      "id":4,
+      "name":"D.O. EXO",
+      "image_url":"file:///android_asset/04.jpg",
+      "video_url":"video01",
+      "voice_url":"musik01.mp3"
+    },
+    {
+      "id":5,
+      "name":"D.O. EXO",
+      "image_url":"file:///android_asset/05.jpg",
+      "video_url":"video01",
+      "voice_url":"musik01.mp3"
+    },
+    {
+      "id":6,
+      "name":"D.O. EXO",
+      "image_url":"file:///android_asset/06.jpg",
+      "video_url":"video01",
+      "voice_url":"musik01.mp3"
+    }
+  ]
+
+}
